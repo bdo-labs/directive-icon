@@ -1,0 +1,12 @@
+{
+  "name": "icon",
+  "repo": "bdo-labs/directive-icon",
+  "version": "0.0.1",
+  "description": "Angular-directive to easily include icons",
+  "main": "lib/index.js",
+  "styles": ["lib/index.css"],
+  "dependencies": {
+    "bdo-labs/format": "master",
+    "FortAwesome/Font-Awesome": "master"
+  }
+}
